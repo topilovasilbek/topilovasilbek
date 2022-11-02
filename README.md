@@ -43,7 +43,7 @@
 <a href = 'https://www.github.com/https://github.com/topilovasilbek'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week </h2>
+<h2> Stuff I worked on last 30 days </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://wakatime.com/share/@6c366c54-107d-4b99-8b82-92653d3d6867/79d90655-df52-4a60-8d78-4a9b964fc88f.svg"/>
 </a>
