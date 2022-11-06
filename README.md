@@ -5,8 +5,11 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/topilovasilbek.https://github.com/topilovasilbek)
+  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/topilovasilbek/count.svg" />
+</p>
 
 </p>
 <div size='20px'> Hi! My name is Asilbek Topilov. Thank You for taking the time to view my GitHub Profile :smile: 
