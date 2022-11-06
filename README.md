@@ -6,8 +6,8 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
   
-<p align="center"> 
-  Visitor count<br>
+<p align="left"> 
+  <h3>Visitor count</h3>
   <img src="https://profile-counter.glitch.me/topilovasilbek/count.svg" />
 </p>
 
