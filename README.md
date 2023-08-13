@@ -8,6 +8,7 @@
   
 <p align="left"> 
   <h3>Visitor count</h3>
+
   <img src="https://profile-counter.glitch.me/topilovasilbek/count.svg" />
 </p>
 
@@ -44,7 +45,7 @@
 <a href = 'https://medium.com/@asilbek-topilov'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://topilovdev.uz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/topilovasilbek'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
+<!---
 <h2> Stuff I worked on last 30 days </h2>
 <img align="center" src="https://wakatime.com/share/@6c366c54-107d-4b99-8b82-92653d3d6867/79d90655-df52-4a60-8d78-4a9b964fc88f.svg"/>
+-->
